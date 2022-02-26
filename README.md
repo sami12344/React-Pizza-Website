@@ -10,6 +10,5 @@ The website is created for an example of my work.
 . 'Styled-components' is used for styling.
 The website is deployed to netlify 
 
-In desktop we will see like this
-
- ![CHEESE!]("https://www.awesomescreenshot.com/image/23042323?key=4389a8e7b1c7545bc06c757c05b9b9ad")
+#Desktop look
+![React App](https://user-images.githubusercontent.com/77746252/155847352-5b4dff4a-bab2-460b-86c1-c0787200fb0c.png)
