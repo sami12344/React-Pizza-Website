@@ -10,4 +10,6 @@ The website is created for an example of my work.
 . 'Styled-components' is used for styling.
 The website is deployed to netlify 
 
+In desktop we will see like this
 
+ <img src="https://www.awesomescreenshot.com/image/23042323?key=4389a8e7b1c7545bc06c757c05b9b9ad" alt="">
