@@ -12,3 +12,8 @@ The website is deployed to netlify
 
 #Desktop look
 ![React App](https://user-images.githubusercontent.com/77746252/155847352-5b4dff4a-bab2-460b-86c1-c0787200fb0c.png)
+
+#Mobile look
+![React App (2)](https://user-images.githubusercontent.com/77746252/155847427-766e3745-08f0-4443-ad5d-d137c1bb6f73.png)
+
+<hr>
